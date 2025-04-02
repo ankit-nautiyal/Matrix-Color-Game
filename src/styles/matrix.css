@@ -1,0 +1,40 @@
+body{
+    text-align: center;
+    justify-content: center;
+}
+
+.grid {
+    display: grid;
+    grid-template-columns: repeat(3, 100px);
+    grid-gap: 10px;
+    width: fit-content;
+    margin: 20px auto;
+}
+
+.box {
+    width: 100px;
+    height: 100px;
+    background-color: white;
+    border: 2px solid #000;
+    cursor: pointer;
+}
+
+.green {
+    background-color: green;
+}
+
+.orange {
+    background-color: orange;
+}
+
+.reset-btn{
+    color: white;
+    background-color: red;
+    border: 3px solid yellow;
+}
+
+.gameInfoBtn{
+    color: white;
+    background-color: blue;
+    border: 3px solid yellow;
+}
