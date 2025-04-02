@@ -18,10 +18,11 @@ Welcome to the Matrix Color Game! Follow these steps to play:
 
 ![image](https://github.com/user-attachments/assets/f3579fe9-804e-42f7-a6fd-417f9aafd5ad)
 ![image](https://github.com/user-attachments/assets/65e18777-9638-4f6e-a730-24f7c91c2ab7)
-![image](https://github.com/user-attachments/assets/7ad2f003-c3aa-43a9-83e4-21dc670c922b)
+![image](https://github.com/user-attachments/assets/d166f515-f9d2-44f6-aef1-d21027187e6b)
 ![image](https://github.com/user-attachments/assets/588b806f-3f09-4c93-8544-f7c3ecbf1121)
 
-![image](https://github.com/user-attachments/assets/d166f515-f9d2-44f6-aef1-d21027187e6b)
+
+![image](https://github.com/user-attachments/assets/7ad2f003-c3aa-43a9-83e4-21dc670c922b)
 ![image](https://github.com/user-attachments/assets/68610984-951b-4a13-82c6-995985fe2dc5)
 ![image](https://github.com/user-attachments/assets/0b74a367-276a-477b-b5ae-fd90af87aa75)
 
