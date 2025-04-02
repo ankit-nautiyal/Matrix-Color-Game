@@ -53,7 +53,7 @@ function Matrix() {
 
     return (
         <>
-            <h1>Matrix Game</h1>
+            <h1>Matrix Color Game</h1>
             
             <button className="gameInfoBtn" onClick={()=> navigate("/gameInfo")}>Game Info  </button>
             
